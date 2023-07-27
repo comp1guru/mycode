@@ -1,0 +1,10 @@
+./localprov/variables.tf
+./myworkspace/variables.tf
+./tfvars-tf/variables.tf
+./project-tf/my_modules/container_maker/variables.tf
+./project-tf/variables.tf
+./vars-tf/variables.tf
+./docker-challenge/variables.tf
+./output-tf/variables.tf
+./state-move/my_modules/container_maker/variables.tf
+./state-move/variables.tf
